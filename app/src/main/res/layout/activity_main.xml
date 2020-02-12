@@ -41,7 +41,7 @@
     <!-- CAR PRICE INPUT SECTION -->
 
     <TextView
-        android:id="@+id/monthlyPaymentTextView"
+        android:id="@+id/monthlyPaymentLoanTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
